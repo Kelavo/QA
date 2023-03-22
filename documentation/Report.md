@@ -12,14 +12,14 @@
 
 ### При подключении к СУБД MySQL
 
-![mysql](https://user-images.githubusercontent.com/103458217/220195931-01b26bfa-baf0-4280-b94d-9658116f003d.jpg)
+![mysql](https://user-images.githubusercontent.com/103458217/227031183-d5cddbe8-69d7-434a-85cb-c80ddd61e576.jpg)
 
 * успешных тестов - 48 (77,41%)
 * неуспешных тестов - 14 (22,59%)
 
 ### При подключении к СУБД PostgreSQL
 
-![postgresql](https://user-images.githubusercontent.com/103458217/220195954-b21b1311-7f8a-4acf-bd49-7270f3f4fb48.jpg)
+![postgresql](https://user-images.githubusercontent.com/103458217/227031254-9876c7ff-eb82-4aba-bf9e-375f678d3214.jpg)
 
 * успешных тестов - 48 (77,41%)
 * неуспешных тестов - 14 (22,59%)
